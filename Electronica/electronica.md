@@ -8,7 +8,7 @@ En primer lugar veremos los componentes del robot:
 - Eje direccional (x1)
 - Soporte dirección (x2)
 - Placa arduino (x1)
-- Escudo (x1)
-- Portapilas (x1)
-- Pilas (x2)
+- Escudo L298N (x1)
+- Portabaterias (x1)
+- Baterías recargables de 3,7 V, modelo TR 18650 de 9900 mAH (x2)
 - Cables
