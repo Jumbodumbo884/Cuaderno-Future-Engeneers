@@ -10,6 +10,9 @@
 - Placa arduino (x1)
 - Escudo L298N (x1)
 - Portabaterias (x1)
-- Baterías recargables de 3,7 V, modelo TR 18650 de 9900 mAH (x2)
+- Baterías recargables de 3'7 V, modelo TR 18650 de 9900 mAH (x2)
 - Cables
 ## Para que se usa cada componente del robot:
+- Chasis robot: Se utiliza para colocar el resto de componentes sobre el o debajo.
+- Ruedas: Nos van a ayudar para que el robot se pueda mover.
+- Soporte ultra sonidos: Esto nos va a ayudar para poder sostener el sensor de ultrasonidos.
