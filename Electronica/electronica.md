@@ -12,4 +12,5 @@
 - Portabaterias (x1)
 - Baterías recargables de 3,7 V, modelo TR 18650 de 9900 mAH (x2)
 - Cables
+- 
 ## Para que se usa cada componente del robot:
