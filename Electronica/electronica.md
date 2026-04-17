@@ -1,5 +1,5 @@
 # Electrónica
-En primer lugar veremos los componentes del robot:
+## Componentes del robot:
 - Chasis robot (PLA)
 - Ruedas (x4)
 - Soporte ultrasonidos (x3)
@@ -12,5 +12,3 @@ En primer lugar veremos los componentes del robot:
 - Portabaterias (x1)
 - Baterías recargables de 3,7 V, modelo TR 18650 de 9900 mAH (x2)
 - Cables
-
-vbvfvbvb
