@@ -3,7 +3,7 @@
 - Chasis robot (PLA)
 - Ruedas (x4)
 - Soporte ultrasonidos (x3)
-- Sensores ultrasonidos (x3)
+- Sensores ultrasonidos HC-SR04 (x3)
 - Motor (x1)
 - Eje direccional (x1)
 - Soporte dirección (x2)
