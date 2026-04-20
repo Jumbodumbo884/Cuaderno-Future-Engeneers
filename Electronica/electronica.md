@@ -23,5 +23,5 @@
 - Placa arduino: Es el cerebro que controla el robot.
 - Escudo L298N: El escudo sirve para poder controlar los motores del robot.
 - Portabaterías: Este utensilio nos ayuda a poder poner las baterías en el mismo.
-- Baterías recargablesde 3'7 V,modelo TR 18650 de 9900 mAH: Estas baterías son las que darán energía al robot.
+- Baterías recargables de 3'7 V, modelo TR 18650 de 9900 mAH: Estas baterías son las que darán energía al robot.
 - Cables: Son los encargados de unificar todos los componentes de arduino etc.
