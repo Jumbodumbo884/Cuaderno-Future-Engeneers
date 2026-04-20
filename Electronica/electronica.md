@@ -21,7 +21,7 @@
 - Eje direccional: Es el va a ayudar a las ruedas delanteras para que las mismas se puedan girar para la izquierda o derecha con más facilidad porque gracias a eje nos proporciona un gran control a la hora de girar.
 - Soporte dirección: Este soporte nos ayuda a mantener siempre bien sujetada la dirección para que no se mueva.
 - Placa arduino: Es el cerebro que controla el robot.
-- Escudo L298N:
+- Escudo L298N: El escudo sirve para poder controlar los motores del robot.
 - Portabaterías: Este utensilio nos ayuda a poder poner las baterías en el mismo.
 - Baterías recargablesde 3'7 V,modelo TR 18650 de 9900 mAH: Estas baterías son las que darán energía al robot.
-- Cables: Son los encargados de unificar motores con la placa de arduino etc.
+- Cables: Son los encargados de unificar todos los componentes de arduino etc.
