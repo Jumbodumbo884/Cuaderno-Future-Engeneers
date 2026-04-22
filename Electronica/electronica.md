@@ -1,5 +1,5 @@
 # Electrónica
-## Componentes del robot:
+## Componentes electrónicos del robot:
 - Sensores ultrasonidos HC-SR04 (x3)
 - Motor (x1)
 - Placa arduino (x1)
