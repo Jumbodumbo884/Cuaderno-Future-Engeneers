@@ -1,3 +1,2 @@
 # Cuaderno Future Engeneers
-En primer lugar nos presentamos. Este equipo está formado por Adrián, Lorenzo y Guillermo y a continuación explicaremos en un resumen el objetivo de la competición y como la hemos afrontado.
-En primer lugar empezaremos a explicar 
+Este equipo está formado por Adrián Ordóñez Hernández, Lorenzo Manuel Latorre Martínez y Guillermo Cuesta Luque, somos estudiantes de 3ºB del instituto IES Az-Zait. 
